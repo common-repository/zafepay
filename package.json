@@ -1,0 +1,15 @@
+{
+  "name": "zafepay",
+  "version": "1.0.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts build"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@wordpress/scripts": "^26.18.0"
+  }
+}
